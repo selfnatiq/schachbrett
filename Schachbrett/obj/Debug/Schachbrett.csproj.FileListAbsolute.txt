@@ -1,0 +1,10 @@
+C:\_C#\Schachbrett\Schachbrett\bin\Debug\Schachbrett.exe.config
+C:\_C#\Schachbrett\Schachbrett\bin\Debug\Schachbrett.exe
+C:\_C#\Schachbrett\Schachbrett\bin\Debug\Schachbrett.pdb
+C:\_C#\Schachbrett\Schachbrett\obj\Debug\Schachbrett.csprojAssemblyReference.cache
+C:\_C#\Schachbrett\Schachbrett\obj\Debug\Schachbrett.frmSchachbrett.resources
+C:\_C#\Schachbrett\Schachbrett\obj\Debug\Schachbrett.Properties.Resources.resources
+C:\_C#\Schachbrett\Schachbrett\obj\Debug\Schachbrett.csproj.GenerateResource.cache
+C:\_C#\Schachbrett\Schachbrett\obj\Debug\Schachbrett.csproj.CoreCompileInputs.cache
+C:\_C#\Schachbrett\Schachbrett\obj\Debug\Schachbrett.exe
+C:\_C#\Schachbrett\Schachbrett\obj\Debug\Schachbrett.pdb
